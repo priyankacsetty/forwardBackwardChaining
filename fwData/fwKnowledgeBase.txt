@@ -1,0 +1,6 @@
+IF Poisoning=noPoisoning THEN Treatment=NULL
+IF Poisoning=VinylChloridePoisoning THEN Treatment=Prevention
+IF Poisoning=ArsenicPoisoning THEN Treatment=Transfusion
+IF Poisoning=LeadPoisoning THEN Treatment=Edta
+IF Poisoning=ChloroformPoisoning THEN Treatment=Decontamination
+IF Poisoning=MercuryPoisoning THEN Treatment=Chelation

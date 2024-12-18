@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1646021154 source:d:\masters\texassanmarcs\coursework\advai\project1\finalprojorg\main\project1-a05142549-backwardchain.cpp
+	"Project1-A05142549-backwardChain.h"
+	<fstream>
+	<algorithm>
+	<map>
+
+1646021098 d:\masters\texassanmarcs\coursework\advai\project1\finalprojorg\main\project1-a05142549-backwardchain.h
+	<iostream>
+	<stack>
+	<map>
+	<string>
+	<iterator>
+
+1646021207 source:d:\masters\texassanmarcs\coursework\advai\project1\finalprojorg\main\project1-a05142549-forwardchain.cpp
+	"Project1-A05142549-forwardChain.h"
+	<fstream>
+
+1646021180 d:\masters\texassanmarcs\coursework\advai\project1\finalprojorg\main\project1-a05142549-forwardchain.h
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<queue>
+	<iterator>
+
+1646021238 source:d:\masters\texassanmarcs\coursework\advai\project1\finalprojorg\main\project1-a05142549-main.cpp
+	<iostream>
+	"Project1-A05142549-backwardChain.h"
+	"Project1-A05142549-forwardChain.h"
+
